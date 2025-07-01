@@ -30,10 +30,8 @@ presenters_per_meeting = 2
 
 current_mc = 'Looka Schoneveld'
 current_members = {
-    "Bart de Vries": "2024-01-01",
     "Benjamin Gonzalez": "2024-09-01",
     "Christoph Konrad": "2022-10-01",
-    "Eloy Vazquez": "2024-09-01",
     "Jason Moore": "2019-09-01",
     "Jules Ronné": "2023-10-01",
     "Looka Schoneveld": "2024-11-01",
