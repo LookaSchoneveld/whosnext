@@ -36,7 +36,6 @@ current_members = {
     "Jules Ronné": "2023-10-01",
     "Looka Schoneveld": "2024-11-01",
     "Neville Nieman": "2024-08-01",
-    "Ruben Terwint": "2025-03-01",
     "Yuke Huang": "2025-02-01",
 	"Dana van der Pol": "2025-06-03",
     "Quinten Bongers": "2025-08-22",
