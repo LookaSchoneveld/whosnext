@@ -24,6 +24,9 @@ import json
 
 from pyfiglet import figlet_format
 
+_ = input(figlet_format('='*20, font='starwars', width=500))
+
+
 ROULETTE = True
 
 presenters_per_meeting = 2
@@ -33,13 +36,15 @@ current_members = {
     "Benjamin Gonzalez": "2024-09-01",
     "Christoph Konrad": "2022-10-01",
     "Jason Moore": "2019-09-01",
-    "Jules Ronné": "2023-10-01",
     "Looka Schoneveld": "2024-11-01",
     "Neville Nieman": "2024-08-01",
     "Yuke Huang": "2025-02-01",
 	"Dana van der Pol": "2025-06-03",
     "Quinten Bongers": "2025-08-22",
     "Stephen Lin": "2025-10-21",
+    "Luna Compen": "2025-11-11",
+    "Siva Machavaram": "2025-11-11",
+    "Floris ....": "2025-11-11"
 }
 with open("presentations.json", "r", encoding="utf-8") as file:
     presentations = json.load(file)
