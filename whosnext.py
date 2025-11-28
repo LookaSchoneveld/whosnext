@@ -24,7 +24,7 @@ import json
 
 from pyfiglet import figlet_format
 
-_ = input(figlet_format('='*20, font='starwars', width=500))
+_ = input(figlet_format('ready?', font='starwars', width=500))
 
 
 ROULETTE = True
