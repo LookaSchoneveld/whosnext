@@ -31,7 +31,7 @@ ROULETTE = True
 
 presenters_per_meeting = 2
 
-current_mc = 'Looka Schoneveld'
+current_mc = 'Dana van der Pol'
 current_members = {
     "Benjamin Gonzalez": "2024-09-01",
     "Christoph Konrad": "2022-10-01",
